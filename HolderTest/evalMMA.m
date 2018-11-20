@@ -1,6 +1,6 @@
 Begin["EvalContext`"]
 
-nbFileName = FileNameJoin[{"/home/jnh201/GSR-y2175/HolderTest", "GSRHolder_PLATOv1.7.nb"}];
+nbFileName = FileNameJoin[{"/home/jnh201/GSR-y2175/HolderTest", "GSRHolder_PLATOv1.8.nb"}];
 
 outputCellPattern = Cell[_, "Output", ___];
 
