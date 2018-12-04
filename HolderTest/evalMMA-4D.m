@@ -1,6 +1,6 @@
 Begin["EvalContext`"]
 
-nbFileName = FileNameJoin[{"/home/jnh201/GSR-y2175/HolderTest/", "PLATO_HolderTestPlots-s0optErrorv2.nb"}];
+nbFileName = FileNameJoin[{"/home/jnh201/GSR-y2175/HolderTest/", "PLATO_HolderTestPlots-s0optErrorv3-4D.nb"}];
 
 outputCellPattern = Cell[_, "Output", ___];
 
